@@ -1,0 +1,10 @@
+{
+    "domain": "propane",
+    "name": "Propane",
+    "documentation": "https://github.com/lainie-ftw/ha-avery-propane",
+    "dependencies": [],
+    "codeowners": [],
+    "iot_class": "local_polling",
+    "requirements": ["beautifulsoup4==1.3.0"],
+    "version": "1.0.0"
+  }
